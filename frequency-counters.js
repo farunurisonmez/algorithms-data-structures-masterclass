@@ -28,5 +28,5 @@ function same(arr1, arr2){
     // ...işlev 'true' değeri ile sonlanıyor ve dizilerin elemanları aynı.
 
 }
-
+ 
 same(arr1, arr2);

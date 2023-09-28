@@ -26,7 +26,6 @@ function same(arr1, arr2){
     console.log('Arr 2:', arr2);
     return true; 
     // ...işlev 'true' değeri ile sonlanıyor ve dizilerin elemanları aynı.
-
 }
  
 same(arr1, arr2);
